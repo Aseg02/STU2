@@ -1,3 +1,7 @@
+# I was helped by a tutor! Once our time raned out I tried following the steps they instructed me with, I didnt want to wait ant longer to turn in the homework, i do apologized for how messy my work came out to be we had to create a new file and re dowload everything and transfer everything from my old file to the current one because I did not have a access to the GitLab and was trying to do everything myself!
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
